@@ -1,0 +1,8 @@
+# Directories
+.vs/
+x64/
+bin/
+packages
+
+# Files
+*.user
